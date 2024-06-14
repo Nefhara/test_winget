@@ -1,0 +1,8 @@
+{
+    "Packages": [
+        {
+            "Name": "test_exe_micka",
+            "Url": "https://raw.githubusercontent.com/Nefhara/test_winget/main/manifests/t/test/exe/micka/1/test.exe.micka.installer.yaml"
+        }
+    ]
+}
