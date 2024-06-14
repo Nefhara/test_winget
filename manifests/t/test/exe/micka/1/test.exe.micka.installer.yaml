@@ -1,0 +1,14 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: test.exe.micka
+PackageVersion: "1"
+InstallerType: portable
+Commands:
+- test_exe_micka_portable
+Installers:
+- InstallerUrl: https://github.com/Nefhara/test/releases/download/test_winget_micka/cmd.exe
+  Architecture: x64
+  InstallerSha256: BADF4752413CB0CBDC03FB95820CA167F0CDC63B597CCDB5EF43111180E088B0
+ManifestType: installer
+ManifestVersion: 1.6.0
