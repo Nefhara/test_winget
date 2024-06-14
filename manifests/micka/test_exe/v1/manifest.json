@@ -7,16 +7,18 @@
 	"Tags": [
 		"editor",
 		"micka",
-		"exe"],
+		"exe"
+	],
 	"ManifestType": "version",
 	"ManifestVersion": "1.0.0",
 	"InstallerType": "exe",
 	"Installers": [
 		{
 			"Architecture": "x64",
-			"InstallerUrl": "https://github.com/Nefhara/test/cmd.exe",
+			"InstallerUrl": "https://github.com/Nefhara/test/blob/main/cmd.exe",
 			"InstallerSha256": "BADF4752413CB0CBDC03FB95820CA167F0CDC63B597CCDB5EF43111180E088B0"
-		}],
+		}
+	],
 	"Description": "Test de dépôt local winget",
 	"Homepage": "Voir github ^^"	
 }
