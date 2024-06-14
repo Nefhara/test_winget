@@ -1,0 +1,24 @@
+{
+    "PackageIdentifier": "test_exe_micka",
+    "PackageVersion": "1",
+    "PackageName": "test exe micka",
+    "Publisher": "micka",
+    "AppMoniker": "micka_moniker",
+    "Tags": [
+        "editor",
+        "micka",
+        "test"
+    ],
+    "ManifestType": "version",
+    "ManifestVersion": "1.0.0",
+    "InstallerType": "exe",
+    "Installers": [
+        {
+            "Architecture": "x64",
+            "InstallerUrl": "https://github.com/Nefhara/test/releases",
+            "InstallerSha256": "d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2"
+        }
+    ],
+    "Description": "test exe micka description",
+    "Homepage": "voir github nefhara"
+}
